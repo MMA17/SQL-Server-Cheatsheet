@@ -1,3 +1,4 @@
+# Require bcp cli tools - Most compatible with Ubuntu or Windows
 #!/bin/bash
 
 # Source and destination database's configuration
